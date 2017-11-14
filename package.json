@@ -1,0 +1,18 @@
+{
+  "name": "mitochondrial-muscle",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "bluebird": "3.5.1",
+    "dotenv": "4.0.0",
+    "ez-fasta": "0.1.0"
+  },
+  "devDependencies": {
+    "jest": "21.2.1"
+  }
+}
